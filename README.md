@@ -87,4 +87,5 @@ Dependências dos pacotes que devem ficar em package.json:
 ```
 ## Créditos
 
+Projeto do curso de Angular 4, elaborado por Cod3rcursos e Udemy
 Todas as imagens usadas na aplicação são pertencentes a freepik.com
